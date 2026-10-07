@@ -19,8 +19,6 @@
 | 1 | | https://chatgpt.com/share/6ac6d655-98cc-83e9-b16c-81535c5d5442 
 | Fiz o estudo da atividade proposta, questionando sobre o que de fato eu deveria entregar, perguntei também algumas estruturas para me auxiliar a não perder tempo construindo a estrutura dos arquivos .md | 
 
-| — | | | |
-
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
 conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
