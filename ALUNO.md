@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: Luigi
+Nome: Luigi Biagio
 
-RA: >>> PREENCHER <<<
+RA: 23329385-2
 
 Conta GitHub: @Luigi-Antonioli
 
