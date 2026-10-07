@@ -1,7 +1,5 @@
 # Requisitos com critérios de aceite mensuráveis por UC
 
-# Requisitos por UC
-
 ## 1. Objetivo
 API para:
 - Abrir bilhete
